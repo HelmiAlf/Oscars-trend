@@ -4,7 +4,7 @@
 I like movies, and i often curious to find out whether there is a time where people appreciate a certain genre more than others. In this project, i hoped to see a change of trending themes and genres of movies that won or nominated to be Movie of the Year award in each decade, from the 1920s to 2010s.
 I scraped the data for this project from wikipedia.com
 
-I found that theres no unique pattern and theres too much theme and genre to visualize. So here's it in text
+I found that theres no unique pattern and theres too many theme and genre to visualize. So here's it in text
 
 ```
 1920

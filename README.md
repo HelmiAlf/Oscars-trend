@@ -7,7 +7,7 @@ I scraped the data for this project from wikipedia.com
 I found that theres no unique pattern and theres too much theme and genre to visualize. So here's it in text
 
 ```
-192
+1920
     american : 8
     silent : 3
     war : 1
@@ -20,7 +20,7 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     semi-biographical : 1
     historical : 1
     comedy : 1
-193
+1930
     american : 67     
     epic : 5          
     pre-code : 29
@@ -49,7 +49,7 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     swashbuckler : 2
     political : 1
     period : 1
-194
+1940
     american : 51
     romance : 10
     psychological : 2
@@ -76,7 +76,7 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     christmas : 2
     historical : 1
     adventure : 1
-195
+1950
     american : 42
     drama : 21
     comedy-drama : 4
@@ -99,7 +99,7 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     religious : 1
     courtroom : 2
     musical-romance : 1
-196
+1960
     american : 31
     romance : 7
     comedy : 4
@@ -131,7 +131,7 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     algerian-french : 1
     political : 1
     thriller : 1
-197
+1970
     american : 43
     epic : 5
     biographical : 4
@@ -168,8 +168,8 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     fantasy-comedy : 1
     prison : 1
     legal : 1
-198
-     american : 36
+1980
+    american : 36
     drama : 27
     biographical : 7
     musical : 1
@@ -195,8 +195,8 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     comedy-drama-war : 1
     fantasy-drama : 1
     irish : 1
-199
-     american : 36
+1990
+    american : 36
     epic : 6
     western : 2
     drama : 21
@@ -234,7 +234,7 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     neo-noir : 1
     italian : 1
     supernatural : 1
-200
+2000
     epic : 9
     historical : 6
     drama : 26
@@ -272,8 +272,8 @@ I found that theres no unique pattern and theres too much theme and genre to vis
     cgi : 1
     animated : 1
     buddy : 1
-201
-     historical : 9
+2010
+    historical : 9
     drama : 45
     british : 3
     biographical : 19
